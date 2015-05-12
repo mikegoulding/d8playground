@@ -1,3 +1,0 @@
-[submodule "vagrant/drupal-lamp"]
-	path = vagrant/drupal-lamp
-	url = git@bitbucket.org:ashday/drupal-lamp.git
